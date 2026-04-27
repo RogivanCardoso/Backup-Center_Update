@@ -1,7 +1,7 @@
 {
-  "version": "21.8",
-  "build": "20260427",
-  "file": "Atualizacao_Backup_Center_v21.8.exe",
+  "version": "21.7",
+  "build": "20260426",
+  "file": "Atualizacao_Backup_Center_v21.7.exe",
   "url": "https://github.com/RogivanCardoso/Backup-Center_Update/releases/download/v21.8/Atualizacao_Backup_Center_v21.7.exe",
   "notes": "Correção de IP do ENM4 e bug ao atualizar."
 }
