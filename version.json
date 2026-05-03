@@ -1,7 +1,7 @@
 {
-  "version": "21.8",
-  "build": "20260426",
-  "file": "Atualizacao_Backup_Center_v21.8.exe",
-  "url": "https://github.com/RogivanCardoso/Backup-Center_Update/releases/download/v21.8/Atualizacao_Backup_Center_v21.8.exe",
-  "notes": "Correção de IP do ENM4 e bug ao atualizar."
+  "version": "21.9",
+  "build": "03052026",
+  "file": "Atualizacao_Backup_Center_v21.9.exe",
+  "url": "https://github.com/RogivanCardoso/Backup-Center_Update/releases/download/v21.9/Atualizacao_Backup_Center_v21.9.exe",
+  "notes": "✔ Suporte aos servidores ENM4 e ENM5\n✔ Novo campo de login para servidores Claro (ENM adicionais)\n✔ Integração com Cygwin para testes pós-comissionamento\n✔ Suporte a servidor SFTP Rebex\n✔ Correções de estabilidade no AutoIntegration (threads/UI)\n✔ Melhorias no processo BaseBand com uso de pasta temporária (_tmp)\n✔ Correção de abort durante downloads\n✔ Otimização do modo offline/local\n✔ Melhorias no log (auto-scroll e mensagens mais claras)"
 }
